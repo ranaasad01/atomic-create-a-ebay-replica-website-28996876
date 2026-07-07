@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { motion, useReducedMotion, type Variants } from "framer-motion";
 import { Search, ChevronRight, Star, Shield, Truck, RotateCcw, Heart, Clock, TrendingUp, Award, Users, Package, ArrowRight, Zap, Tag } from 'lucide-react';
@@ -777,9 +777,7 @@ function Testimonials() {
               >
                 <div className="flex items-center gap-1 mb-4">
                   {Array.from({ length: t.rating }).map((_, ri) => (
-                    <Star key={ri} size={14} className="fill-[#F5AF02] text-[#F5AF02]" />
-                  ))}
-                </div>
+                    <Star key={ri} size={14} className="fill-[#F5AF02] text-[#F5AF02]" />"Found a rare vintage camera lens I had been searching for years. The seller was fantastic and shipping was incredibly fast.</div>
                 <p className="text-gray-700 text-sm leading-relaxed mb-5 italic">
                   "{t.text}"
                 </p>
