@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "topbar": {
+      "hi": "Hi!",
+      "signin": "Sign in",
+      "or": "Or",
+      "register": "Register",
+      "myebay": "My eBay",
+      "sell": "Sell",
+      "help": "Help & Contact"
+    },
+    "search": {
+      "placeholder": "Search for anything",
+      "button": "Search"
+    },
+    "icons": {
+      "account": "Account",
+      "watchlist": "Watchlist",
+      "cart": "Cart"
+    },
+    "links": {
+      "home": "Home",
+      "search": "Search",
+      "myebay": "My eBay",
+      "watchlist": "Watchlist",
+      "sell": "Sell",
+      "cart": "Cart",
+      "dailydeals": "Daily Deals",
+      "electronics": "Electronics",
+      "fashion": "Fashion",
+      "motors": "Motors"
+    }
+  },
+  "footer": {
+    "buy": {
+      "title": "Buy"
+    },
+    "sell": {
+      "title": "Sell"
+    },
+    "tools": {
+      "title": "Tools & Apps"
+    },
+    "company": {
+      "title": "eBay Inc."
+    },
+    "app": {
+      "title": "Shop on the go",
+      "subtitle": "Download the eBay app for the best mobile experience.",
+      "appstore": {
+        "label": "Download on the",
+        "name": "App Store"
+      },
+      "googleplay": {
+        "label": "Get it on",
+        "name": "Google Play"
+      }
+    },
+    "copyright": "Copyright © {year} {name} Inc. All rights reserved."
+  },
+  "sellerDashboard": {
+    "categories": {
+      "subtitle": "Monitor performance across your product categories",
+      "title": "Sales by Category"
+    },
+    "chart": {
+      "subtitle": "Track your revenue trends over time",
+      "title": "Revenue Overview"
+    },
+    "exportReport": "Export Report",
+    "listings": {
+      "filterAll": "All Listings",
+      "noResults": "No listings found. Create your first listing to get started.",
+      "searchPlaceholder": "Search your listings"
+    },
+    "newListing": "Create Listing",
+    "orderStats": {
+      "delivered": "Delivered",
+      "processing": "Processing",
+      "shipped": "Shipped",
+      "total": "Total Orders"
+    },
+    "orders": {
+      "results": "Results",
+      "showing": "Showing",
+      "title": "Recent Orders"
+    },
+    "performance": {
+      "casesClosed": "Cases Closed",
+      "onTimeShipping": "On-Time Shipping",
+      "positiveFeedback": "Positive Feedback",
+      "title": "Seller Performance"
+    },
+    "quickActions": {
+      "analytics": "View Analytics",
+      "listItem": "List an Item",
+      "myEbay": "My eBay",
+      "viewWatchlist": "Watchlist"
+    },
+    "recentOrders": {
+      "title": "Recent Orders",
+      "viewAll": "View All Orders"
+    },
+    "stats": {
+      "activeListings": "Active Listings",
+      "sellerRating": "Seller Rating",
+      "totalOrders": "Total Orders",
+      "totalRevenue": "Total Revenue"
+    },
+    "subtitle": "Manage your inventory, track orders, and grow your business",
+    "title": "Seller Dashboard"
+  }
+}

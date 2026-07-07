@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "topbar": {
+      "hi": "¡Hola!",
+      "signin": "Iniciar sesión",
+      "or": "O",
+      "register": "Registrarse",
+      "myebay": "Mi eBay",
+      "sell": "Vender",
+      "help": "Ayuda y contacto"
+    },
+    "search": {
+      "placeholder": "Buscar cualquier cosa",
+      "button": "Buscar"
+    },
+    "icons": {
+      "account": "Cuenta",
+      "watchlist": "Lista de deseos",
+      "cart": "Carrito"
+    },
+    "links": {
+      "home": "Inicio",
+      "search": "Buscar",
+      "myebay": "Mi eBay",
+      "watchlist": "Lista de deseos",
+      "sell": "Vender",
+      "cart": "Carrito",
+      "dailydeals": "Ofertas diarias",
+      "electronics": "Electrónica",
+      "fashion": "Moda",
+      "motors": "Motores"
+    }
+  },
+  "footer": {
+    "buy": {
+      "title": "Comprar"
+    },
+    "sell": {
+      "title": "Vender"
+    },
+    "tools": {
+      "title": "Herramientas y aplicaciones"
+    },
+    "company": {
+      "title": "eBay Inc."
+    },
+    "app": {
+      "title": "Compra sobre la marcha",
+      "subtitle": "Descarga la aplicación de eBay para la mejor experiencia móvil.",
+      "appstore": {
+        "label": "Descargar en",
+        "name": "App Store"
+      },
+      "googleplay": {
+        "label": "Descargar en",
+        "name": "Google Play"
+      }
+    },
+    "copyright": "Copyright © {year} {name} Inc. Todos los derechos reservados."
+  },
+  "sellerDashboard": {
+    "categories": {
+      "subtitle": "Monitorea el rendimiento en tus categorías de productos",
+      "title": "Ventas por categoría"
+    },
+    "chart": {
+      "subtitle": "Sigue tus tendencias de ingresos a lo largo del tiempo",
+      "title": "Resumen de ingresos"
+    },
+    "exportReport": "Exportar informe",
+    "listings": {
+      "filterAll": "Todos los anuncios",
+      "noResults": "No se encontraron anuncios. Crea tu primer anuncio para comenzar.",
+      "searchPlaceholder": "Busca tus anuncios"
+    },
+    "newListing": "Crear Anuncio",
+    "orderStats": {
+      "delivered": "Entregados",
+      "processing": "En Proceso",
+      "shipped": "Enviados",
+      "total": "Pedidos Totales"
+    },
+    "orders": {
+      "results": "Resultados",
+      "showing": "Mostrando",
+      "title": "Pedidos Recientes"
+    },
+    "performance": {
+      "casesClosed": "Casos Cerrados",
+      "onTimeShipping": "Envío a Tiempo",
+      "positiveFeedback": "Comentarios Positivos",
+      "title": "Desempeño del Vendedor"
+    },
+    "quickActions": {
+      "analytics": "Ver Análisis",
+      "listItem": "Publicar un Artículo",
+      "myEbay": "Mi eBay",
+      "viewWatchlist": "Lista de Seguimiento"
+    },
+    "recentOrders": {
+      "title": "Pedidos Recientes",
+      "viewAll": "Ver Todos los Pedidos"
+    },
+    "stats": {
+      "activeListings": "Anuncios Activos",
+      "sellerRating": "Calificación del Vendedor",
+      "totalOrders": "Pedidos Totales",
+      "totalRevenue": "Ingresos Totales"
+    },
+    "subtitle": "Gestiona tu inventario, realiza un seguimiento de pedidos y haz crecer tu negocio",
+    "title": "Panel del Vendedor"
+  }
+}
